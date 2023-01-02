@@ -1,3 +1,5 @@
+At this point, this is a clone of https://github.com/SimeonGriggs/remix-sanity-studio-v3
+
 # Sanity Studio v3 + Remix
 
 - [Sanity Studio v3 Docs](https://beta.sanity.io)
